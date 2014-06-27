@@ -1,4 +1,4 @@
-esri_devsummit_2014
+Working with raster data using arcpy.  Sample scripts.
 ===================
 The integration of map algebra with Python opens a new dimension for raster analysis and the automation of geoprocessing workflows. Using a real-world example, this session will include an introduction to the Spatial Analyst ArcPy module, best practices for using the raster object and classes to expand your modeling capability, using raster functions to optimize performance, and using NumPy arrays to extend your analysis.
 
